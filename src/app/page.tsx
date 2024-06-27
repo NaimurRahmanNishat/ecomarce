@@ -1,8 +1,11 @@
-import React from 'react'
+"use client";
+import Slider from '../components/Slider';
 
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <div>
+      <Slider/>
+    </div>
   )
 }
 
