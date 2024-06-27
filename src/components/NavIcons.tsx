@@ -23,7 +23,7 @@ const NavIcons = () => {
     }
   };
   return (
-    <div className="flex items-center gap-4 lg:gap-6">
+    <div className="flex items-center gap-4 lg:gap-6 relative">
       <Image
         src="/profile.png"
         alt=""
